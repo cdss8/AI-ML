@@ -18,7 +18,9 @@
 Выборка:
 
 Лесные пожары (https://archive.ics.uci.edu/ml/datasets/Forest+Fires);
-Качество вина (https://archive.ics.uci.edu/ml/datasets/Wine+Quality); winequality-red.csv
+
+Качество вина (https://archive.ics.uci.edu/ml/datasets/Wine+Quality), winequality-red.csv;
+
 Аренда велосипедов (https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset), day.csv;
 
 
