@@ -23,13 +23,14 @@
 
 Аренда велосипедов (https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset), day.csv;
 
+--
+--
+--
 
 
 
 
-
-
-**Laboratory 3**
+**Laboratory 2**
 
 ***Задание 2. Классификаторы***
 
@@ -41,10 +42,12 @@
 
 (https://archive.ics.uci.edu/ml/datasets/Covertype) 
 
+--
+--
+--
 
 
-
-**Laboratory 2**
+**Laboratory 3**
 
 ***Задание 3. Регрессия***
 
