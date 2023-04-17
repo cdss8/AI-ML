@@ -16,9 +16,10 @@
 Напишите краткий обзор наиболее интересных взаимосвязей, которые вы обнаружили в данных.
 
 Выборка:
-Лесные пожары (https://archive.ics.uci.edu/ml/datasets/Forest+Fires );
-Качество вина (https://archive.ics.uci.edu/ml/datasets/Wine+Quality ); winequality-red.csv
-Аренда велосипедов (https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset ), day.csv;
+
+Лесные пожары (https://archive.ics.uci.edu/ml/datasets/Forest+Fires);
+Качество вина (https://archive.ics.uci.edu/ml/datasets/Wine+Quality); winequality-red.csv
+Аренда велосипедов (https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset), day.csv;
 
 
 
@@ -26,7 +27,7 @@
 
 
 
-**Laboratory 2**
+**Laboratory 3**
 
 ***Задание 2. Классификаторы***
 
@@ -53,8 +54,13 @@
 Выбрать наилучшую модель из полученных регрессоров. 
 
 Выборка:
-Лесные пожары (https://archive.ics.uci.edu/ml/datasets/Forest+Fires); 
-Качество вина (https://archive.ics.uci.edu/ml/datasets/Wine+Quality) файл winequality-red.csv; 
+Лесные пожары (https://archive.ics.uci.edu/ml/datasets/Forest+Fires);
+
+Качество вина (https://archive.ics.uci.edu/ml/datasets/Wine+Quality) файл winequality-red.csv;   
+
 Качество вина (https://archive.ics.uci.edu/ml/datasets/Wine+Quality) файл winequality-white.csv; 
+
 Аренда велосипедов (https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset), файл day.csv; 
+
 Аренда велосипедов (https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset), файл hour.csv;
+
