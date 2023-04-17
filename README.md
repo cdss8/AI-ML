@@ -53,8 +53,8 @@
 Выбрать наилучшую модель из полученных регрессоров. 
 
 Выборка:
-Лесные пожары (https://archive.ics.uci.edu/ml/datasets/Forest+Fires), предсказываемое значение – площадь пожара (Area); 
-Качество вина (https://archive.ics.uci.edu/ml/datasets/Wine+Quality) предсказываемое значение – качество (Quality), файл winequality-red.csv; 
-Качество вина (https://archive.ics.uci.edu/ml/datasets/Wine+Quality) предсказываемое значение – качество (Quality), файл winequality-white.csv; 
-Аренда велосипедов (https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset), предсказываемое значение – количество аренд велосипедов в сутки(Area), файл day.csv; 
-Аренда велосипедов (https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset), предсказываемое значение – количество аренд велосипедов в час(Area), файл hour.csv;
+Лесные пожары (https://archive.ics.uci.edu/ml/datasets/Forest+Fires); 
+Качество вина (https://archive.ics.uci.edu/ml/datasets/Wine+Quality) файл winequality-red.csv; 
+Качество вина (https://archive.ics.uci.edu/ml/datasets/Wine+Quality) файл winequality-white.csv; 
+Аренда велосипедов (https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset), файл day.csv; 
+Аренда велосипедов (https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset), файл hour.csv;
