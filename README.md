@@ -15,7 +15,8 @@
 7. Визуализируйте некоторую статистику для различных атрибутов, используя следующие инструменты: Violinplot, Countplot, FacetGrid, Stripplot, Swarmplot, Catplot, Pie.
 Напишите краткий обзор наиболее интересных взаимосвязей, которые вы обнаружили в данных.
 
-Выборка – Лесные пожары (https://archive.ics.uci.edu/ml/datasets/Forest+Fires );
+Выборка:
+Лесные пожары (https://archive.ics.uci.edu/ml/datasets/Forest+Fires );
 Качество вина (https://archive.ics.uci.edu/ml/datasets/Wine+Quality ); winequality-red.csv
 Аренда велосипедов (https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset ), day.csv;
 
@@ -51,3 +52,10 @@
 Написать короткий отчет по работе, включив в него программу с комментариями, значения качества моделей (коэффициент детерминации, среднюю квадратичную и среднюю абсолютную ошибки). 
 Выбрать наилучшую модель из полученных регрессоров. 
 
+
+Выборка:
+Лесные пожары (https://archive.ics.uci.edu/ml/datasets/Forest+Fires), предсказываемое значение – площадь пожара (Area); 
+Качество вина (https://archive.ics.uci.edu/ml/datasets/Wine+Quality) предсказываемое значение – качество (Quality), файл winequality-red.csv; 
+Качество вина (https://archive.ics.uci.edu/ml/datasets/Wine+Quality) предсказываемое значение – качество (Quality), файл winequality-white.csv; 
+Аренда велосипедов (https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset), предсказываемое значение – количество аренд велосипедов в сутки(Area), файл day.csv; 
+Аренда велосипедов (https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset), предсказываемое значение – количество аренд велосипедов в час(Area), файл hour.csv;
