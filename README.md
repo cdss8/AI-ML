@@ -1,6 +1,6 @@
 # AI-ML
 
-Laboratory 1
+#Laboratory 1
 
 Задание 1. Исследовательский анализ и визуализация данных
 
@@ -25,7 +25,7 @@ Laboratory 1
 
 
 
-Laboratory 2
+#Laboratory 2
 
 Задание №2. Классификаторы
 
